@@ -17,7 +17,7 @@ document.querySelector('[title="Hosted on free web hosting 000webhost.com. Host 
 
 ### Installation on classic HTML web
 
-Just paste this code to your HTML site hosted on 000webhost. 
+Just paste [this code](https://github.com/tomas-dostal/000webhost_banner_blocker/blob/master/script.html) to your HTML site hosted on 000webhost. 
 
 ### Installation on a Wordpress page
 
@@ -25,7 +25,7 @@ To include this script into your Wordpress page (e.g. in foote), please follow [
 
 1) Install [Insert headers and footers plugin](https://wordpress.org/plugins/insert-headers-and-footers/). 
 2) You can access it from your WP dashbroard: Settings -> Insert headers and footers 
-3) Paste source code to one of those windows. 
+3) Paste [source code](https://github.com/tomas-dostal/000webhost_banner_blocker/blob/master/script.html) to one of those windows. 
 ![Screenshot from Insert headers and footers plugin ](https://github.com/tomas-dostal/000webhost_banner_blocker/raw/master/use_with_wordpress.png)
 4) Hit "Save" button
 5) Done.
